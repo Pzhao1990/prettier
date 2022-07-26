@@ -9,6 +9,8 @@ Use “prettier-ignore” comments to ignore parts of files.
 
 ## Ignoring Files: .prettierignore
 
+note:当有中文文件夹或者中文名的时候，忽略会无效
+
 To exclude files from formatting, create a `.prettierignore` file in the root of your project. `.prettierignore` uses [gitignore syntax](https://git-scm.com/docs/gitignore#_pattern_format).
 
 Example:
